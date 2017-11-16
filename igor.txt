@@ -1,0 +1,23 @@
+else = иначе
+function = функция
+if = если
+new = новый
+return = возвращать
+this = это, этот, эта
+variable = переменная
+while = пока (в то время как)
+true = истинный
+false = ложный
+array = множество (массив элементов)
+object = объект
+error = ошибка
+math = mathematics = математика
+number = число
+string = строка
+undefined = неопределенный
+window = окно
+length = длина
+property = свойство
+prototype = прототип
+query = запрос
+document = документ
