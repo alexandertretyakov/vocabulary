@@ -1,10 +1,10 @@
 ﻿with - c;
 was - был;
-It - Это;
-There - там;
-They - Oни;
-Her - ей/её;
-Were - мы;
+it - это;
+there - там;
+they - они;
+her - ей/её;
+were - мы; ?????????????????????????????????
 things - вещи;
 cupboard - шкаф;
 three - три;
@@ -19,7 +19,7 @@ early - рано;
 evening - вечер;
 often - часто;
 because - потому что;
-dear -  Уважаемые;
+dear -  уважаемые;
 hair - волосы;
 nose - нос;
 run and played - бегать и играть;
@@ -42,16 +42,14 @@ lifted - поднятый;
 then - затем;
 carried - унесло;
 far away - далеко;
-did not - не;
-frightened - испуганный;
+did not - не; ????????????????????????????????
 wanted to - хотеть;
-What will happen to us - Что будет с нами;
+what will happen to us - Что будет с нами;
 thought - думал;
 passed - прошло;
 shall - должен;
 got up - вставать;
 lay - прокладывать;
-came - пришел;
 beside - рядом;
 
 
