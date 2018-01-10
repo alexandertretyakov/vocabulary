@@ -4,7 +4,7 @@ it - это;
 there - там;
 they - они;
 her - ей/её;
-were - мы; ?????????????????????????????????
+were - мы;
 things - вещи;
 cupboard - шкаф;
 three - три;
@@ -42,7 +42,7 @@ lifted - поднятый;
 then - затем;
 carried - унесло;
 far away - далеко;
-did not - не; ????????????????????????????????
+did not - не;
 wanted to - хотеть;
 what will happen to us - Что будет с нами;
 thought - думал;
@@ -51,5 +51,64 @@ shall - должен;
 got up - вставать;
 lay - прокладывать;
 beside - рядом;
+
+when - когда;
+sat - сидеть;
+around - вокруг;
+early - рано;
+cried - кричать;
+saw - увидел;
+bright - яркий;
+sang - спели;
+their - их;
+way - путь;
+fairy-land - сказочно-земля;
+thought - думал;
+bright - яркий;
+were - мы;
+comming to the house - идти к дому;
+what - какие;
+like - как;
+we - мы;
+why - зачем;
+asked - спросил;
+because - потому как;
+wicked - злой;
+answered - ответил;
+does - делает;
+could - мог;
+kind - доброта;
+there - там;
+mistake - ошибка;
+answered - ответил;
+How - Как;
+said - сказал;
+feet under - ноги под;
+saw - увидел;
+frightened - испуганный;
+what shall - что;
+cried out - выкрикнул;
+fell - упал;
+poor - бедный;
+but who - но кто;
+made - сделал;
+now they - теперь они;
+has fallen - упал;
+where - где;
+are there - есть там;
+there are - это так;
+of them - из них;
+lives - живёт;
+glad - довольны;
+
+
+
+
+
+
+
+
+
+
 
 
