@@ -112,7 +112,30 @@ who - кто;
 has - имеет;
 are - 2 л. ед., 1, 2, 3 л. мн. настоящего времени от be;
 
-
+terribly - страшный;
+frighten - пугать;
+could - мог;
+wizard - волшебник;
+lives - живёт;
+emerald - изумруд;
+ruler - линейка;
+middle - серединаж;
+walk - путь;
+full - полный;
+afraid - боюсь;
+aren't - не;
+shoes - обувь;
+took - взял;
+gave - дал;
+some - некоторые;
+will - будем;
+brick - кирпич;
+kind - своего рода;
+leave - уйти;
+put - положи;
+took - взял;
+along - вдоль;
+times - раз;
 
 
 
