@@ -277,7 +277,16 @@ could  - прош время от can;
 took - прош вр от take;
 push - толкать;
 
-
+these - множ от this;
+could - от can;
+voice - голос;
+unlock - отпирать, открывать (ключом);
+thank - благодарить;
+slave - раб, слуга;
+stranger - чужестранец; гость;
+bring - приведите;
+brought - прош время т bring;
+flew - от fly;
 
 
 
