@@ -1,4 +1,5 @@
-﻿with - c;
+﻿// Chapter 1
+with - c;
 was - прошедшего времени от глагола be;
 it - это;
 there - там;
@@ -59,6 +60,7 @@ lie - лежать;
 lay - прош вр от lie;
 beside - рядом;
 
+// Chapter 2
 when - когда;
 sat - прош время от sit;
 around - вокруг;
@@ -103,6 +105,7 @@ who - кто;
 has - настоящего времени от have;
 are - 2 л. ед., 1, 2, 3 л. мн. настоящего времени от be;
 
+// Chapter 3
 terribly - ужасно;
 frighten - пугать;
 could - прош вр от can;
@@ -129,6 +132,7 @@ put - класть;
 along - вдоль;
 time - раз;
 
+// Chapter 4
 meet - встречать;
 scarecrow - пугало;
 call - звать;
@@ -178,6 +182,7 @@ began - прош вр от begin;
 bark - лаять;
 bite - кусать;
 
+// Chapter 5
 meet - встречать;
 leg - нога;
 tin - олово;
@@ -203,6 +208,7 @@ those - множ от that;
 courage- мужество, храбрость;
 glad - рад, доволен, счастлив;
 
+// Chapter 6
 around - вокруг, кругом, повсюду;
 high - высокий;
 thick - толстый;
@@ -242,6 +248,7 @@ sell - продавать;
 sold - прош время от sell;
 stood - прош от stand;
 
+// Chapter 7
 haven't - сокр от have not;
 spoke - прош время от speak;
 through - через, сквозь, по, внутри;
@@ -274,9 +281,11 @@ went - прош от go;
 how - как?, каким образом?;
 could  - прош время от can;
 
+// Chapter 8
 took - прош вр от take;
 push - толкать;
 
+// Chapter 9
 these - множ от this;
 could - от can;
 voice - голос;
@@ -288,6 +297,7 @@ bring - приносить, привозить; приводить; достав
 brought - прош время т bring;
 flew - от fly;
 
+// Chapter 10
 bring - приносить, привозить; приводить; доставлять;
 brought - прош вр от bring;
 know - знать, иметь представление (о чём-л.);
@@ -303,12 +313,14 @@ dirty - грязный, запачканный;
 mass - масса;
 another - ещё один, другой (такой же);
 
+// Chapter 11
 smith - кузнец;
 carry - нести, носить; относить; переносить;
 wait - ждать, выжидать, переждать;
 corner - угол;
 voice - голос;
 
+// Chapter 12
 behind - сзади, позади;
 humbug - обманщик, мошенник, плут; притворщик;
 pull - тянуть, тащить;
@@ -323,9 +335,10 @@ bought - прош вр от buy;
 ticket - билет;
 wind - ветер;
 
+// Chapter 13
 humbug - обманщик, мошенник, плут; притворщикж
 told - прош вр от tell;
-young - неопытный;
+young - молодой;
 during - в течение, в продолжение, во время;
 learn - учиться;
 
