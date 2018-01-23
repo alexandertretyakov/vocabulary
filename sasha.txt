@@ -344,7 +344,7 @@ learn - учиться;
 // Chapter 14
 pin - булавка;
 clever - умный;
-put - помещать;
+put - помещать, класть;
 a lot off - куча (уйма);
 shoulder - плечо;
 wise - мудрый;
