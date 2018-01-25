@@ -359,12 +359,21 @@ idea - идея; мысль;
 round - круглый, вокруг;
 rise - подниматься
 
-//Chapter 16;
+//Chapter 16
 at once - сразу же, тотчас же, немедленно;
 through - через;
 mountain - гора;
 giant - великан, гигант; титан;
 rich - богатый, роскошный;
+
+//Chapter 17
+capital - capital;
+certainly - безусловно;
+holiday - праздник, день отдыха;
+birthday - день рождения;
+
+
+
 
 
 
