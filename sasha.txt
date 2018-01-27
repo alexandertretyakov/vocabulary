@@ -367,8 +367,8 @@ giant - великан, гигант; титан;
 rich - богатый, роскошный;
 
 //Chapter 17
-capital - capital;
-certainly - безусловно;
+capital - столица;
+certainly - безусловно, конечно;
 holiday - праздник, день отдыха;
 birthday - день рождения;
 
