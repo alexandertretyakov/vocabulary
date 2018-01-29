@@ -385,6 +385,12 @@ forgot - прош вр от forget;
 garden - сад;
 under - под, ниже;
 
+//Chapter 2
+beak - люв;
+caught - схвачено;
+catch - прош вр от caught;
+bird - птица;
+steal - воровать, красть;
 
 
 
