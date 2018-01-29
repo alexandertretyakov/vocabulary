@@ -386,9 +386,9 @@ garden - сад;
 under - под, ниже;
 
 //Chapter 2
-beak - люв;
-caught - схвачено;
-catch - прош вр от caught;
+beak - клюв;
+caught - прош время от catch;
+catch - ловить; поймать; схватить;
 bird - птица;
 steal - воровать, красть;
 
