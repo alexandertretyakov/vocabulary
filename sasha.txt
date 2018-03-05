@@ -806,3 +806,7 @@ snatch - хватание, схватывание; хватка;
 
 //Chapter 22
 judge - судья;
+
+//Chapter 23
+winter - зима;
+blind - слепой;
