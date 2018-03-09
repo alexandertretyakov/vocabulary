@@ -21,3 +21,62 @@ property = свойство
 prototype = прототип
 query = запрос
 document = документ
+
+be          was, were       быть
+become      became          становиться
+begin       began           начинать(ся)
+blow        blew            дуть
+break       broke           ломать
+bring       brought         приносить
+burn        burnt           гореть, жечь
+buy         bought          покупать
+catch       caught          ловить, поймать
+choose      chose           выбирать
+come        came            приходить
+cut         cut             резать
+do          did             делать
+draw        drew            тащить; рисовать
+drink       drank           пить
+drive       drove           везти
+eat         ate             есть, кушать
+fall        fell            падать
+feel        felt            чувствовать
+fight       fought          бороться
+find        found           находить
+fly         flew            летать
+forget      forgot          забывать
+get         got             получать; становиться
+give        gave            давать
+go          went            идти; ехать
+grow        grew            расти, выращивать
+have        had             иметь
+hear        heard           слышать
+hold        held            держать
+keep        kept            держать; хранить
+know        knew            знать
+learn       learnt, learned учиться; узнавать
+leave       left            покидать, оставлять
+light       lit             зажигать
+make        made            делать, создавать
+meet        met             встречать(ся)
+put         put             класть, ставить
+read        read            читать
+ring        rang            звонить, звенеть
+run         ran             бежать
+say         said            сказать; говорить
+see         saw             видеть
+send        sent            посылать, отправлять
+sing        sang            петь
+sit         sat             сидеть
+sleep       slept           спать
+speak       spoke           говорить, разговаривать
+spend       spent           тратить; проводить (время)
+stand       stood           стоять
+take        took            брать, взять
+teach       taught          учить, обучать
+tell        told            сказать, рассказать
+think       thought         думать
+throw       threw           бросать
+understand  understood      понимать
+win         won             побеждать; выигрывать
+write       wrote           писать
