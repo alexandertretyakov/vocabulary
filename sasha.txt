@@ -1135,4 +1135,105 @@ bit - кусок; кусочек;
 satisfied - довольный, удовлетворённый;
 kick - ударять ногой или копытом; пинать; лягать, брыкать;
 
+-------------------------------------------Treasure Island-----------------------------------------------
+
+//Chapter 1
+whole - весь;
+treasure - сокровище;
+keeping - сохранение;
+kept - содержал;
+tall - высокий;
+scar - шрам;
+across - через;
+nails - гвозди;
+appeared - появился;
+glass - стакан;
+rum - ром;
+brought - принёс;
+drank - выпил;
+may - можете;
+silent - тихий;
+cove - бухта;
+cliffs - скалы;
+corner - угол;
+shanty - хижина;
+avoid - избегать;
+shaking - покачивание;
+crimes - преступления;
+excitement - волнение;
+admired - восхищались;
+spoke - разговаривал;
+anger - гнев;
+awful - ужасный;
+feet - ноги;
+knife - нож;
+gardener - садовник;
+slapped - ударил;
+
+//Chapter 2
+upstairs - наверху;
+breakfast - завтрак;
+pale - бледный;
+althought - хотя;
+sonny - сынок;
+mistaken - ошибся;
+straightoway - сразу;
+disappeared - исчезнувший;
+dreadfull - ужасный;
+wounded - раненый;
+warned - предупредил;
+worthless - безполезный;
+fancy - изысканный;
+recognized - узнанный;
+pillow - подушка;
+
+//Chapter 3
+pitch - наклон;
+least - наименее;
+weaker - слабее;
+probably - вероятно;
+adressed - адресованный;
+funeral - похороны;
+blind - слепой;
+cruel - жестокий;
+gripped - схватил;
+fainted - потеря сознания;
+obeyed - повиновался;
+palm - ладонь;
+
+//Chapter 4
+chest - сундук;
+course - курс;
+indeed - действительно;
+seemed - казалось;
+remain - оставаться;
+fall - падение;
+coals - угли;
+sooner - скорее;
+fog - туман;
+candles - свечи;
+however - однако;
+belonged - принадлежал;
+fatherless - без отца;
+dare - посметь;
+spot - место;
+thimble - напёрсток;
+honest - честный;
+difficult - трудный;
+mouth - рот;
+suspicious - подозрительный;
+hornets - шершни;
+arguing - спорить;
+whistle - свист;
+
+//Chapter 5
+crept - подкрался;
+bush - куст;
+mist - туман;
+beggar - нищий;
+half-heartedly - нерешительно;
+quarrelling - ссориться;
+suppose - предпологать;
+thought - мысль;
+heartly - сердечно;
 
