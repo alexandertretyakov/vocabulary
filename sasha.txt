@@ -1237,3 +1237,155 @@ suppose - предпологать;
 thought - мысль;
 heartly - сердечно;
 
+//Chapter 6
+nod - кивок;
+pipe - трубка;
+packet - пакет;
+thirstiest - жаждущий;
+favourable - попутный;
+
+//Chapter 7
+patients - пациенты;
+meantime - тем временем;
+sailor - моряк;
+smell - запах;
+
+//Chapter 8
+glance - взглянуть;
+sanded - отшлифованный;
+crutch - костыль;
+recognized - признанный;
+regretted - сожалел;
+crowd - толпа;
+shipmates - товарищи по кораблю;
+
+//Chapter 9
+harbour - гавань;
+speech - поговорка;
+kept - сохранил;
+cabin - каюта;
+
+//Chapter 10
+pin - приколоть;
+parrot - попугай;
+corner - угол;
+heaviest - самый тяжелый;
+smelt - выплавить;
+gunpowder - порох;
+barrel - бочка;
+
+//Chapter 11
+pounds - фунты;
+shaking - тряска;
+
+//Chapter 12
+council - совет;
+deck - палуба;
+fog - туман;
+ashore - на берегу;
+filled - заполненный;
+raisins - изюм;
+signs - знаки;
+clever - умный;
+remarkable - замечательный;
+rope - веревка;
+until - до;
+rely - полагаться;
+
+//Chapter 13
+awful - ужасный;
+sniffing - обнюхивание;
+ashore - на берегу;
+slightest - малейший;
+sodden - промокший;
+immediately - немедленно;
+shining - сияющий;
+brightly - ярко;
+sudden - внезапный;
+
+//Chapter 14
+creature - существо;
+shipwrecked - потерпевший кораблекрушение;
+cruel - жестокий;
+buried - похороненный;
+pinched - ущипнул;
+interrupted - прерванный;
+firing - стрельба;
+
+//Chapter 15
+stockade - частокол;
+rope - веревка;
+
+//Chapter 16
+crunch - хруст;
+fence - изгородь;
+succeeded - удалось;
+meanwhile - тем временем;
+managed - удалось;
+unconscious - бессознательный;
+
+//Chapter 17
+pine-trees - сосны;
+biscuits - печенье;
+helpless - беспомощный;
+however - однако;
+
+//Chapter 18
+nodding - кивая;
+breast - грудь;
+sensible - разумный;
+handkerchief - носовой платок;
+neck - шея;
+carefully - осторожно;
+surprisingly - удивительно;
+
+//Chapter 19
+settled - поселился;
+tore - разорвал;
+loudly - громко;
+sudden - внезапный;
+parrot - попугай;
+breath - дыхание;
+coolly - хладнокровно;
+
+//Chapter 20
+spot - место;
+immediately - немедленно;
+astonished - пораженный;
+ashore - на берегу;
+bargain - торговаться;
+
+//Chapter 21
+tongue - язык;
+necessary - необходимый;
+blamed - обвинили;
+
+//Chapter 22
+mood - настроение;
+escaping - побег;
+struck - ударил;
+hill - холм;
+
+//Chapter 23
+wide - широкий;
+dinner - ужин;
+couple - пара;
+struggling - столкнувшийся с трудностями;
+ground - земля;
+nonetheless - тем не менее;
+fearfully - со страхом;
+growing - растет;
+
+//Chapter 24
+embarrassment - смущение;
+favour - услуга;
+opposite - противоположный;
+lads - ребята;
+journeys - путешествия;
+angrily - сердито;
+desertion - дезертирство;
+ax - топор;
+council - совет;
+surrounded - окруженный;
+gatekeeper - привратник;
+worst - худший;
