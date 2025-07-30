@@ -1410,3 +1410,58 @@ council - совет;
 surrounded - окруженный;
 gatekeeper - привратник;
 worst - худший;
+
+-------------------------------------------The Snow Queen-----------------------------------------------
+//Chapter 1
+stove - печь;
+snowflake - снежинка;
+flake - осколок;
+too - тоже;
+waved - помахал;
+spring - весна;
+bits - кусочки;
+ugly - уродливый;
+also - также;
+recived - полученный;
+howled - выл;
+
+//Chapter 2
+drowned - утонул;
+taste - вкус;
+sledge - сани;
+combing - расчесывание;
+
+//Chapter 3
+wept - плакал;
+shone - светился;
+crow - ворона;
+late - поздно;
+
+//Chapter 4
+staircase - лестница;
+velvet - бархат;
+carriage - карета;
+
+//Chapter 5
+coachman - кучер;
+
+//Chapter 6
+reindeer - олень;
+sparkling - игристый;
+cushion - подушка;
+ham - ветчина;
+flame - пламя;
+
+//Chapter 7
+steam - пар;
+spear - копье;
+stroke - гладить;
+increased - повысился;
+grew - вырос;
+shape - форма;
+
+//Chapter 8
+various - различный;
+eternity - вечность;
+vanish - исчезнуть;
+berrie - ягода;
