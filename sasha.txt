@@ -1410,34 +1410,3 @@ council - совет;
 surrounded - окруженный;
 gatekeeper - привратник;
 worst - худший;
-
--------------------------------------------The Cat in Boots-----------------------------------------------
-//Chapter 1
-miller - мельник;
-mill - мельница;
-wheat - пшеница;
-oldest - старейший;
-
-//Chapter 2
-shoemaker - сапожник;
-forepaws - передние лапы;
-partridges - куропатки;
-gift - подарок;
-
-//Chapter 3
-carriage - карета;
-well-built - хорошо сложенный;
-
-//Chapter 4
-meadow - луг;
-mowers - косари;
-crops - посевы;
-reapers - жнецы;
-
-//Chapter 5
-roof - крыша;
-itself - себя, само;
-ate - ел;
-
-//Chapter 6
-drawbridge - подъемный мост;
